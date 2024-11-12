@@ -73,8 +73,8 @@ The application uses Redux Toolkit for efficient state management with the follo
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd social-posts-app
+git clone https://github.com/Tharun-Balaji/redux-post-app.git
+cd redux-posts-app
 ```
 
 2. Install dependencies:
