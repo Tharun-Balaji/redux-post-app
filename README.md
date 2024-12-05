@@ -2,6 +2,18 @@
 
 A React application for creating, editing, and interacting with posts using modern state management and optimistic updates.
 
+## 🌐 Links
+- **Demo**: [Redux Post App](https://tharun-balaji.github.io/redux-post-app/)
+- **Source Code**: [GitHub Repository](https://github.com/Tharun-Balaji/React.js/tree/main/React-Projects/post-app)
+
+📸 Preview
+
+![App Preview](image.png)
+![post view](image-1.png)
+![edit post view](image-2.png)
+![Add new post](image-3.png)
+![users page](image-4.png)
+
 ## Features
 
 - Create new posts
